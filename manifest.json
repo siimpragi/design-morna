@@ -1,9 +1,9 @@
 {
-  "description": "The basic developer's template",
-  "name": "Pripyat",
+  "description": "A template for learning",
+  "name": "Morna",
   "preview_medium": "",
   "preview_small": "",
-  "author": "Tõnu Runnel",
+  "author": "Siim Pragi",
   "layouts": [
     {
       "content_type": "page",

@@ -1,9 +1,9 @@
 {
-  "name": "voog-design-boilerplate",
-  "description": "The Pripyat (basic developer's boilerplate) design template for Voog",
+  "name": "voog-design-morna",
+  "description": "The Morna design template for Voog",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Voog/design-boilerplate.git"
+    "url": "git://github.com/siimpragi/design-morna.git"
   },
   "license": "MIT",
   "devDependencies": {
