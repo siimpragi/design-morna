@@ -20,7 +20,7 @@
     "boundVariables": [
     ]
   */
-  --main-font-family: "Avenir Next", "Avenir", "Helvetica Neue", "Helvetica", "Segoe UI", sans-serif;
+  --main-font-family: "Iosevka Fixed Web", "Menlo", "Consolas", "Monaco", "Liberation Mono", "Lucida Console", monospace;
   /* VoogStyle
     "pathI18n": ["main_styles", "colors"],
     "titleI18n": "primary_color",

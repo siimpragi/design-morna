@@ -183,6 +183,10 @@
             "value": "\"Cousine\", monospace"
           },
           {
+            "title": "Iosevka Fixed Web",
+            "value": "\"Iosevka Fixed Web\", monospace"
+          },
+          {
             "title": "Roboto Mono",
             "value": "\"Roboto Mono\", monospace"
           },
